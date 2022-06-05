@@ -87,10 +87,3 @@ class AffectNet:
                     layer.trainable = False
                 else:
                     layer.trainable = True
-
-    # Is this broken?
-    # def save(self, save_dir, only_base=False):
-    #     if only_base:
-    #         tf.saved_model.save(self.base_model, save_dir)
-    #     else:
-    #         tf.saved_model.save(self.model, save_dir)
