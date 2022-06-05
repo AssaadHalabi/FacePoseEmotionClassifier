@@ -1,3 +1,9 @@
+# Wandb
+wandb/
+
+# Models
+models/
+
 # Dataset
 dataset/
 
