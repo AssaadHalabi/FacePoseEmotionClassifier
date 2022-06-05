@@ -1,5 +1,5 @@
 # FacePoseEmotionClassifier
-# FacePoseEmotionClassifier
+
 Facial Emotion and Pose Classifier on the AffectNet Dataset.
 
 
